@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T10:30:00-03:00",
+  "updatedAt": "2026-11-10T17:01:38-03:00",
   "games": [
     {
       "league": "Superliga Masculina",
@@ -10,19 +10,19 @@
       "platform": "tv"
     },
     {
-      "league": "Superliga Masculina",
-      "home": "Praia Clube",
-      "away": "Saneago Goiás",
-      "start": "2026-11-11T18:30:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
-    {
       "league": "Serie A1 Feminina",
       "home": "Novara",
       "away": "Prosecco Conegliano",
       "start": "2026-11-11T16:30:00-03:00",
       "channel": "Rai Sport",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Praia Clube",
+      "away": "Saneago Goiás",
+      "start": "2026-11-11T18:30:00-03:00",
+      "channel": "SporTV 2",
       "platform": "tv"
     }
   ]

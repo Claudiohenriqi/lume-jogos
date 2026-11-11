@@ -1,14 +1,6 @@
 {
-  "updatedAt": "2026-11-10T17:01:38-03:00",
+  "updatedAt": "2026-11-11T08:15:00-03:00",
   "games": [
-    {
-      "league": "Superliga Masculina",
-      "home": "Norde Vôlei",
-      "away": "Sada Cruzeiro",
-      "start": "2026-11-10T21:00:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Serie A1 Feminina",
       "home": "Novara",
@@ -18,10 +10,34 @@
       "platform": "tv"
     },
     {
+      "league": "Serie A1 Feminina",
+      "home": "Omag Consolini",
+      "away": "Scandicci",
+      "start": "2026-11-11T16:30:00-03:00",
+      "channel": "YouTube Lega Volley Femminile",
+      "platform": "youtube"
+    },
+    {
       "league": "Superliga Masculina",
       "home": "Praia Clube",
       "away": "Saneago Goiás",
       "start": "2026-11-11T18:30:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Feminina",
+      "home": "Gerdau Minas",
+      "away": "Sancor Londrina",
+      "start": "2026-11-12T18:30:00-03:00",
+      "channel": "SporTV",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Feminina",
+      "home": "Sesc Flamengo",
+      "away": "Fluminense",
+      "start": "2026-11-12T21:00:00-03:00",
       "channel": "SporTV 2",
       "platform": "tv"
     }

@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T08:15:00-03:00",
+  "updatedAt": "2026-11-11T17:10:00-03:00",
   "games": [
     {
       "league": "Serie A1 Feminina",
@@ -30,7 +30,7 @@
       "home": "Gerdau Minas",
       "away": "Sancor Londrina",
       "start": "2026-11-12T18:30:00-03:00",
-      "channel": "SporTV",
+      "channel": "SporTV 2",
       "platform": "tv"
     },
     {

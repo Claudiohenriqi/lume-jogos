@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-11-11T17:10:00-03:00",
+  "updatedAt": "2026-11-12T08:15:00-03:00",
   "games": [
-    {
-      "league": "Serie A1 Feminina",
-      "home": "Novara",
-      "away": "Prosecco Conegliano",
-      "start": "2026-11-11T16:30:00-03:00",
-      "channel": "Rai Sport",
-      "platform": "tv"
-    },
-    {
-      "league": "Serie A1 Feminina",
-      "home": "Omag Consolini",
-      "away": "Scandicci",
-      "start": "2026-11-11T16:30:00-03:00",
-      "channel": "YouTube Lega Volley Femminile",
-      "platform": "youtube"
-    },
-    {
-      "league": "Superliga Masculina",
-      "home": "Praia Clube",
-      "away": "Saneago Goiás",
-      "start": "2026-11-11T18:30:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Superliga Feminina",
       "home": "Gerdau Minas",
@@ -38,6 +14,30 @@
       "home": "Sesc Flamengo",
       "away": "Fluminense",
       "start": "2026-11-12T21:00:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Feminina",
+      "home": "Praia Clube",
+      "away": "Mackenzie",
+      "start": "2026-11-13T18:30:00-03:00",
+      "channel": "ge tv (YouTube)",
+      "platform": "youtube"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Vôlei Renata",
+      "away": "Sada Cruzeiro",
+      "start": "2026-11-13T18:30:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Feminina",
+      "home": "Osasco",
+      "away": "Sesi Bauru",
+      "start": "2026-11-13T21:00:00-03:00",
       "channel": "SporTV 2",
       "platform": "tv"
     }

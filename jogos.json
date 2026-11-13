@@ -1,22 +1,6 @@
 {
-  "updatedAt": "2026-11-12T08:15:00-03:00",
+  "updatedAt": "2026-11-13T08:20:00-03:00",
   "games": [
-    {
-      "league": "Superliga Feminina",
-      "home": "Gerdau Minas",
-      "away": "Sancor Londrina",
-      "start": "2026-11-12T18:30:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
-    {
-      "league": "Superliga Feminina",
-      "home": "Sesc Flamengo",
-      "away": "Fluminense",
-      "start": "2026-11-12T21:00:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Superliga Feminina",
       "home": "Praia Clube",
@@ -38,6 +22,30 @@
       "home": "Osasco",
       "away": "Sesi Bauru",
       "start": "2026-11-13T21:00:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Supercoppa Italiana",
+      "home": "Perugia",
+      "away": "Trentino",
+      "start": "2026-11-14T11:30:00-03:00",
+      "channel": "Rai Sport",
+      "platform": "tv"
+    },
+    {
+      "league": "Supercoppa Italiana",
+      "home": "Rana Verona",
+      "away": "Lube Civitanova",
+      "start": "2026-11-14T14:00:00-03:00",
+      "channel": "Rai Sport",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Montes Claros",
+      "away": "Sesi Bauru",
+      "start": "2026-11-14T18:30:00-03:00",
       "channel": "SporTV 2",
       "platform": "tv"
     }

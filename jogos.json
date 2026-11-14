@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-11-13T17:20:00-03:00",
+  "updatedAt": "2026-11-14T08:20:00-03:00",
   "games": [
-    {
-      "league": "Superliga Feminina",
-      "home": "Praia Clube",
-      "away": "Mackenzie",
-      "start": "2026-11-13T18:30:00-03:00",
-      "channel": "ge tv (YouTube)",
-      "platform": "youtube"
-    },
-    {
-      "league": "Superliga Masculina",
-      "home": "Vôlei Renata",
-      "away": "Sada Cruzeiro",
-      "start": "2026-11-13T18:30:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
-    {
-      "league": "Superliga Feminina",
-      "home": "Osasco",
-      "away": "Sesi Bauru",
-      "start": "2026-11-13T21:00:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Supercoppa Italiana",
       "home": "Perugia",
@@ -48,6 +24,62 @@
       "start": "2026-11-14T18:30:00-03:00",
       "channel": "SporTV 2",
       "platform": "tv"
+    },
+    {
+      "league": "SV.LEAGUE Feminina",
+      "home": "Denso Airybees",
+      "away": "Aleeza Aichi",
+      "start": "2026-11-15T01:05:00-03:00",
+      "channel": "VBTV",
+      "platform": "tv"
+    },
+    {
+      "league": "SV.LEAGUE Masculina",
+      "home": "Osaka Bluteon",
+      "away": "Fragolad Kagoshima",
+      "start": "2026-11-15T02:05:00-03:00",
+      "channel": "VBTV",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Monte Carmelo",
+      "away": "Praia Clube",
+      "start": "2026-11-15T11:00:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Serie A1 Feminina",
+      "home": "Talmassons",
+      "away": "Novara",
+      "start": "2026-11-15T12:00:00-03:00",
+      "channel": "DAZN",
+      "platform": "tv"
+    },
+    {
+      "league": "Serie A1 Feminina",
+      "home": "Scandicci",
+      "away": "Laica Uyba",
+      "start": "2026-11-15T13:00:00-03:00",
+      "channel": "DAZN",
+      "platform": "tv"
+    },
+    {
+      "league": "Serie A1 Feminina",
+      "home": "Cuneo",
+      "away": "Vero Volley Milano",
+      "start": "2026-11-15T14:00:00-03:00",
+      "channel": "DAZN",
+      "platform": "tv"
+    },
+    {
+      "league": "Serie A1 Feminina",
+      "home": "Bergamo",
+      "away": "Prosecco Conegliano",
+      "start": "2026-11-15T16:00:00-03:00",
+      "channel": "YouTube Lega Volley Femminile",
+      "platform": "youtube"
     }
   ]
 }

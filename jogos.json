@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T08:20:00-03:00",
+  "updatedAt": "2026-11-14T17:10:00-03:00",
   "games": [
     {
       "league": "Supercoppa Italiana",
@@ -29,6 +29,14 @@
       "league": "SV.LEAGUE Feminina",
       "home": "Denso Airybees",
       "away": "Aleeza Aichi",
+      "start": "2026-11-15T01:05:00-03:00",
+      "channel": "VBTV",
+      "platform": "tv"
+    },
+    {
+      "league": "SV.LEAGUE Masculina",
+      "home": "Suntory Sunbirds",
+      "away": "JTEKT Stings",
       "start": "2026-11-15T01:05:00-03:00",
       "channel": "VBTV",
       "platform": "tv"

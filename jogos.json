@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-11-14T17:10:00-03:00",
+  "updatedAt": "2026-11-15T08:06:08-03:00",
   "games": [
-    {
-      "league": "Supercoppa Italiana",
-      "home": "Perugia",
-      "away": "Trentino",
-      "start": "2026-11-14T11:30:00-03:00",
-      "channel": "Rai Sport",
-      "platform": "tv"
-    },
-    {
-      "league": "Supercoppa Italiana",
-      "home": "Rana Verona",
-      "away": "Lube Civitanova",
-      "start": "2026-11-14T14:00:00-03:00",
-      "channel": "Rai Sport",
-      "platform": "tv"
-    },
-    {
-      "league": "Superliga Masculina",
-      "home": "Montes Claros",
-      "away": "Sesi Bauru",
-      "start": "2026-11-14T18:30:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "SV.LEAGUE Feminina",
       "home": "Denso Airybees",
@@ -74,6 +50,14 @@
       "platform": "tv"
     },
     {
+      "league": "Supercoppa Italiana",
+      "home": "Perugia",
+      "away": "Lube Civitanova",
+      "start": "2026-11-15T14:00:00-03:00",
+      "channel": "Rai 2",
+      "platform": "tv"
+    },
+    {
       "league": "Serie A1 Feminina",
       "home": "Cuneo",
       "away": "Vero Volley Milano",
@@ -88,6 +72,14 @@
       "start": "2026-11-15T16:00:00-03:00",
       "channel": "YouTube Lega Volley Femminile",
       "platform": "youtube"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Sada Cruzeiro",
+      "away": "Suzano",
+      "start": "2026-11-16T21:00:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
     }
   ]
 }

@@ -1,14 +1,6 @@
 {
-  "updatedAt": "2026-11-16T17:10:00-03:00",
+  "updatedAt": "2026-11-17T08:20:00-03:00",
   "games": [
-    {
-      "league": "Superliga Masculina",
-      "home": "Sada Cruzeiro",
-      "away": "Suzano",
-      "start": "2026-11-16T21:00:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Superliga Feminina",
       "home": "Fluminense",
@@ -22,6 +14,14 @@
       "home": "Sesi Bauru",
       "away": "Sesc Flamengo",
       "start": "2026-11-17T21:30:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Feminina",
+      "home": "Sancor Londrina",
+      "away": "Praia Clube",
+      "start": "2026-11-18T21:00:00-03:00",
       "channel": "SporTV 2",
       "platform": "tv"
     }

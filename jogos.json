@@ -1,35 +1,19 @@
 {
-  "updatedAt": "2026-11-18T17:10:00-03:00",
+  "updatedAt": "2026-11-19T08:05:41-03:00",
   "games": [
-    {
-      "league": "Copa da Turquia Feminina",
-      "home": "Fenerbahçe",
-      "away": "THY",
-      "start": "2026-11-18T10:30:00-03:00",
-      "channel": "VBTV",
-      "platform": "tv"
-    },
-    {
-      "league": "Copa da Turquia Feminina",
-      "home": "Eczacıbaşı",
-      "away": "Aras Kargo",
-      "start": "2026-11-18T13:00:00-03:00",
-      "channel": "VBTV",
-      "platform": "tv"
-    },
-    {
-      "league": "Superliga Feminina",
-      "home": "Sancor Londrina",
-      "away": "Praia Clube",
-      "start": "2026-11-18T21:00:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Superliga Feminina",
       "home": "Osasco",
       "away": "Pinheiros",
       "start": "2026-11-19T19:30:00-03:00",
+      "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Praia Clube",
+      "away": "Vôlei Guarulhos",
+      "start": "2026-11-20T21:00:00-03:00",
       "channel": "SporTV 2",
       "platform": "tv"
     }

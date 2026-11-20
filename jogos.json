@@ -1,20 +1,28 @@
 {
-  "updatedAt": "2026-11-19T17:10:00-03:00",
+  "updatedAt": "2026-11-20T08:20:00-03:00",
   "games": [
-    {
-      "league": "Superliga Feminina",
-      "home": "Osasco",
-      "away": "Pinheiros",
-      "start": "2026-11-19T19:30:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "Superliga Masculina",
       "home": "Praia Clube",
       "away": "Sil Vôlei Guarulhos",
       "start": "2026-11-20T21:00:00-03:00",
       "channel": "SporTV 2",
+      "platform": "tv"
+    },
+    {
+      "league": "Superliga Masculina",
+      "home": "Viapol São José",
+      "away": "Sada Cruzeiro",
+      "start": "2026-11-21T16:00:00-03:00",
+      "channel": "ge tv",
+      "platform": "youtube"
+    },
+    {
+      "league": "Serie A1 Feminina",
+      "home": "Novara",
+      "away": "Chieri",
+      "start": "2026-11-21T16:30:00-03:00",
+      "channel": "Rai Sport",
       "platform": "tv"
     }
   ]

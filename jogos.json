@@ -1,28 +1,28 @@
 {
-  "updatedAt": "2026-11-20T08:20:00-03:00",
+  "updatedAt": "2026-11-24T08:20:00-03:00",
   "games": [
     {
-      "league": "Superliga Masculina",
-      "home": "Praia Clube",
-      "away": "Sil Vôlei Guarulhos",
-      "start": "2026-11-20T21:00:00-03:00",
-      "channel": "SporTV 2",
+      "league": "CEV Champions League Feminina",
+      "home": "Fenerbahçe",
+      "away": "Vasas Budapest",
+      "start": "2026-11-24T13:00:00-03:00",
+      "channel": "EuroVolley.TV",
       "platform": "tv"
     },
     {
-      "league": "Superliga Masculina",
-      "home": "Viapol São José",
-      "away": "Sada Cruzeiro",
-      "start": "2026-11-21T16:00:00-03:00",
-      "channel": "ge tv",
-      "platform": "youtube"
+      "league": "CEV Champions League Feminina",
+      "home": "Eczacıbaşı",
+      "away": "Tent Obrenovac",
+      "start": "2026-11-24T13:00:00-03:00",
+      "channel": "EuroVolley.TV",
+      "platform": "tv"
     },
     {
-      "league": "Serie A1 Feminina",
-      "home": "Novara",
-      "away": "Chieri",
-      "start": "2026-11-21T16:30:00-03:00",
-      "channel": "Rai Sport",
+      "league": "Superliga Feminina",
+      "home": "Praia Clube",
+      "away": "Fluminense",
+      "start": "2026-11-24T21:00:00-03:00",
+      "channel": "SporTV 2",
       "platform": "tv"
     }
   ]

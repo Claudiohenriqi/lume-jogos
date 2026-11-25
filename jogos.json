@@ -1,30 +1,6 @@
 {
-  "updatedAt": "2026-11-24T17:25:00-03:00",
+  "updatedAt": "2026-11-25T08:10:00-03:00",
   "games": [
-    {
-      "league": "CEV Champions League Feminina",
-      "home": "Fenerbahçe",
-      "away": "Vasas Budapest",
-      "start": "2026-11-24T13:00:00-03:00",
-      "channel": "EuroVolley.TV",
-      "platform": "tv"
-    },
-    {
-      "league": "CEV Champions League Feminina",
-      "home": "Eczacıbaşı",
-      "away": "Tent Obrenovac",
-      "start": "2026-11-24T13:00:00-03:00",
-      "channel": "EuroVolley.TV",
-      "platform": "tv"
-    },
-    {
-      "league": "Superliga Feminina",
-      "home": "Praia Clube",
-      "away": "Fluminense",
-      "start": "2026-11-24T21:00:00-03:00",
-      "channel": "SporTV 2",
-      "platform": "tv"
-    },
     {
       "league": "CEV Champions League Feminina",
       "home": "VakıfBank",
@@ -47,6 +23,14 @@
       "away": "Levallois Paris Saint-Cloud",
       "start": "2026-11-25T16:00:00-03:00",
       "channel": "Xsports",
+      "platform": "tv"
+    },
+    {
+      "league": "CEV Champions League Feminina",
+      "home": "Prosecco Conegliano",
+      "away": "Novara",
+      "start": "2026-11-26T16:30:00-03:00",
+      "channel": "EuroVolley.TV",
       "platform": "tv"
     }
   ]

@@ -1,45 +1,10 @@
 {
-  "updatedAt": "2026-11-25T17:20:00-03:00",
+  "updatedAt": "2026-11-26T08:05:34-03:00",
   "games": [
-    {
-      "league": "CEV Champions League Feminina",
-      "home": "VakıfBank",
-      "away": "Asterix Avo Beveren",
-      "start": "2026-11-25T13:00:00-03:00",
-      "channel": "EuroVolley.TV",
-      "platform": "tv"
-    },
-    {
-      "league": "CEV Champions League Feminina",
-      "home": "Scandicci",
-      "away": "Turan Tovuz",
-      "start": "2026-11-25T14:30:00-03:00",
-      "channel": "EuroVolley.TV",
-      "platform": "tv"
-    },
-    {
-      "league": "CEV Champions League Feminina",
-      "home": "Vero Volley Milano",
-      "away": "Levallois Paris Saint-Cloud",
-      "start": "2026-11-25T16:00:00-03:00",
-      "channel": "Xsports",
-      "platform": "tv"
-    },
-    {
-      "league": "CEV Champions League Feminina",
-      "home": "Prosecco Conegliano",
-      "away": "Novara",
-      "start": "2026-11-26T16:30:00-03:00",
-      "channel": "EuroVolley.TV",
-      "platform": "tv"
-    },
-    {
-      "league": "SuperLega",
-      "home": "Perugia",
-      "away": "Lube Civitanova",
-      "start": "2026-11-26T16:30:00-03:00",
-      "channel": "VBTV",
-      "platform": "tv"
-    }
+    {"league": "CEV Champions League Feminina", "home": "Prosecco Conegliano", "away": "Novara", "start": "2026-11-26T16:30:00-03:00", "channel": "EuroVolley.TV", "platform": "tv"},
+    {"league": "SuperLega", "home": "Perugia", "away": "Lube Civitanova", "start": "2026-11-26T16:30:00-03:00", "channel": "Rai Sport / VBTV", "platform": "tv"},
+    {"league": "Superliga Masculina", "home": "Sesi Bauru", "away": "Viapol Vôlei São José", "start": "2026-11-27T18:30:00-03:00", "channel": "SporTV 2", "platform": "tv"},
+    {"league": "Superliga Feminina", "home": "Praia Clube", "away": "Osasco", "start": "2026-11-27T18:30:00-03:00", "channel": "ge tv", "platform": "tv"},
+    {"league": "Superliga Masculina", "home": "Sada Cruzeiro", "away": "Itambé Minas", "start": "2026-11-27T21:00:00-03:00", "channel": "SporTV 2", "platform": "tv"}
   ]
 }

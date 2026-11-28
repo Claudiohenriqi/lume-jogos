@@ -1,10 +1,14 @@
 {
-  "updatedAt": "2026-11-27T17:15:00-03:00",
+  "updatedAt": "2026-11-28T08:20:00-03:00",
   "games": [
-    {"league": "Superliga Masculina", "home": "Sesi Bauru", "away": "Viapol Vôlei São José", "start": "2026-11-27T18:30:00-03:00", "channel": "SporTV 2", "platform": "tv"},
-    {"league": "Superliga Feminina", "home": "Praia Clube", "away": "Osasco", "start": "2026-11-27T21:00:00-03:00", "channel": "ge tv (YouTube)", "platform": "youtube"},
-    {"league": "Superliga Masculina", "home": "Sada Cruzeiro", "away": "Itambé Minas", "start": "2026-11-27T21:00:00-03:00", "channel": "SporTV 2", "platform": "tv"},
+    {"league": "Serie A1 Feminina", "home": "Talmassons", "away": "Vero Volley Milano", "start": "2026-11-28T16:00:00-03:00", "channel": "DAZN", "platform": "tv"},
     {"league": "Serie A1 Feminina", "home": "Cuneo", "away": "Scandicci", "start": "2026-11-28T17:00:00-03:00", "channel": "Rai Sport", "platform": "tv"},
-    {"league": "Superliga Masculina", "home": "Suzano", "away": "Praia Clube", "start": "2026-11-28T21:00:00-03:00", "channel": "ge tv (YouTube)", "platform": "youtube"}
+    {"league": "Superliga Masculina", "home": "Suzano", "away": "Praia Clube", "start": "2026-11-28T21:00:00-03:00", "channel": "ge tv (YouTube)", "platform": "youtube"},
+    {"league": "SV.League Masculina", "home": "Suntory Sunbirds", "away": "Nagoya Wolfdogs", "start": "2026-11-29T01:05:00-03:00", "channel": "VBTV", "platform": "tv"},
+    {"league": "SV.League Masculina", "home": "Voreas Hokkaido", "away": "Osaka Bluteon", "start": "2026-11-29T01:05:00-03:00", "channel": "VBTV", "platform": "tv"},
+    {"league": "SV.League Feminina", "home": "Aranmare Akita Shonai", "away": "Denso Airybees", "start": "2026-11-29T02:05:00-03:00", "channel": "VBTV", "platform": "tv"},
+    {"league": "SuperLega", "home": "Verona", "away": "Trentino", "start": "2026-11-29T11:00:00-03:00", "channel": "Rai 2", "platform": "tv"},
+    {"league": "SuperLega", "home": "Lube Civitanova", "away": "Piacenza", "start": "2026-11-29T13:00:00-03:00", "channel": "VBTV", "platform": "tv"},
+    {"league": "SuperLega", "home": "Perugia", "away": "Modena", "start": "2026-11-29T15:00:00-03:00", "channel": "VBTV", "platform": "tv"}
   ]
 }
